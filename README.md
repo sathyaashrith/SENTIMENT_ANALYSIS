@@ -38,3 +38,13 @@ Your submission will be graded based on the following criteria:
 To submit your assignment, please upload a Jupyter Notebook (.ipynb file) containing the code, results, and insights. Ensure that the notebook is well-organized, with clear headings and sections, and includes a brief summary of the findings and implications.
 
 #OUTPUT: 
+
+![Image](https://github.com/user-attachments/assets/92e5995a-d7e5-4214-9853-46d15c57e3d0)
+
+![Image](https://github.com/user-attachments/assets/27ed09c4-9a0f-4a87-a911-fdbb6585d133)
+
+![Image](https://github.com/user-attachments/assets/d81b8c6e-3cc4-4deb-9fcc-99b1eb1c39eb)
+
+![Image](https://github.com/user-attachments/assets/38613807-e9de-4d90-9c2c-61fe76eedf75)
+
+![Image](https://github.com/user-attachments/assets/51250be7-f110-4529-8448-4e70a9475906)
