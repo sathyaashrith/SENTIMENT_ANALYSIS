@@ -39,12 +39,14 @@ To submit your assignment, please upload a Jupyter Notebook (.ipynb file) contai
 
 #OUTPUT: 
 
+![Image](https://github.com/user-attachments/assets/366ec32e-be52-4a6d-8423-a6151f03b711)
+
 ![Image](https://github.com/user-attachments/assets/ba619e02-9aa7-41d3-971f-4e20adc5e641)
-
-![Image](https://github.com/user-attachments/assets/613a413d-57ff-43f4-aae6-f9d715814e17)
-
-![Image](https://github.com/user-attachments/assets/9e88d12c-b0de-4f3d-b5ac-a41185014274)
 
 ![Image](https://github.com/user-attachments/assets/16b76d2d-69ad-4bd1-b15f-166bb5684bb4)
 
-![Image](https://github.com/user-attachments/assets/366ec32e-be52-4a6d-8423-a6151f03b711)
+![Image](https://github.com/user-attachments/assets/9e88d12c-b0de-4f3d-b5ac-a41185014274)
+
+![Image](https://github.com/user-attachments/assets/613a413d-57ff-43f4-aae6-f9d715814e17)
+
+![Image](https://github.com/user-attachments/assets/ba619e02-9aa7-41d3-971f-4e20adc5e641)
